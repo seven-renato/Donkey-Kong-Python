@@ -12,6 +12,7 @@ Enfrente a selva urbana, saltando sobre barris lançados pelo gorila, escalando 
 EN-US
 
 It's made with graphics.py package!
+
 "Donkepy" is a game inspired by the legendary classic Donkey Kong, which was created as the final project of my first year in college studying Information Systems, in collaboration with Eduarda Alves Amaral. Developed in Python, using the Graphics library, the game combines beginner-level programming skills, such as object-oriented programming, matrix manipulation for level mapping, and implementation of optimized framerate with time.sleep.
 
 Get ready to dive into a challenging experience, where you take on the role of a brave adventurer who must overcome numerous obstacles to rescue the princess from the clutches of the evil gorilla. The game features a series of creative levels, each with its own unique set of challenges that will test your platforming skills, quick thinking, and reflexes.
