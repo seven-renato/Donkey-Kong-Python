@@ -1,6 +1,8 @@
 # Donkey-Kong-Python
 Foi feito com a biblioteca graphics.py!
+
 PT-BR
+
 "Donkepy" é um jogo inspirado no lendário Donkey Kong clássico, que foi criado como projeto final do meu primeiro ano na faculdade de Sistemas de Informação em conjunto com Eduarda Alves Amaral. Desenvolvido em Python, utilizando a biblioteca Graphics, o jogo combina habilidades de programação de nivel inicial, como o uso de orientação a objetos, manipulação de matrizes para mapeamento de níveis e implementação de um framerate otimizado com time.sleep.
 
 Prepare-se para mergulhar em uma experiência desafiadora, na qual você assume o papel de um corajoso aventureiro que precisa enfrentar inúmeros obstáculos para resgatar a princesa das garras do malvado gorila. O jogo apresenta uma série de níveis criativos, cada um com seu próprio conjunto único de desafios, que vão testar suas habilidades de plataforma, raciocínio rápido e reflexos.
@@ -8,6 +10,7 @@ Prepare-se para mergulhar em uma experiência desafiadora, na qual você assume 
 Enfrente a selva urbana, saltando sobre barris lançados pelo gorila, escalando escadas em busca de pontos estratégicos e desviando-se de perigosas chamas que ameaçam seu progresso. Além disso, mergulhe em uma atmosfera imersiva com efeitos sonoros e trilha sonora empolgantes, incorporados à experiência de jogo por meio da biblioteca Pygame.
 
 EN
+
 It's made with graphics.py package!
 "Donkepy" is a game inspired by the legendary classic Donkey Kong, which was created as the final project of my first year in college studying Information Systems, in collaboration with Eduarda Alves Amaral. Developed in Python, using the Graphics library, the game combines beginner-level programming skills, such as object-oriented programming, matrix manipulation for level mapping, and implementation of optimized framerate with time.sleep.
 
