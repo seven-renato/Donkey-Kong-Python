@@ -1,5 +1,5 @@
 # Donkey-Kong-Python
-Foi feito co ma biblioteca graphics.py!
+Foi feito com a biblioteca graphics.py!
 PT-BR
 "Donkepy" é um jogo inspirado no lendário Donkey Kong clássico, que foi criado como projeto final do meu primeiro ano na faculdade de Sistemas de Informação em conjunto com Eduarda Alves Amaral. Desenvolvido em Python, utilizando a biblioteca Graphics, o jogo combina habilidades de programação de nivel inicial, como o uso de orientação a objetos, manipulação de matrizes para mapeamento de níveis e implementação de um framerate otimizado com time.sleep.
 
